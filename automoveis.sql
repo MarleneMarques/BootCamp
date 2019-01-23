@@ -46,7 +46,7 @@ INSERT INTO `automoveis` VALUES (1,15,2,0),(2,8,1,0),(3,1,3,1),(4,13,7,0),(5,4,4
 UNLOCK TABLES;
 
 --
--- Table structure for table `cores`
+-- Table structure for table `cores` aqui adicionado
 --
 
 DROP TABLE IF EXISTS `cores`;
